@@ -10,7 +10,7 @@
 
 - Clone this Repository.
 
-- There's no need to cd into a directory since the package file is already in the root.
+- There's no need to change directory since the package file is already in the root.
 Go to your terminal & type
 ```
 npm install
