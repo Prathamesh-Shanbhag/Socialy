@@ -21,7 +21,7 @@ npm install
 
 - Make an Account on AstraDB [here](https://astra.datastax.com/register?utm_medium=referral&utm_source=youtube&utm_campaign=eddie-jaoude&utm_content=discord-bot) & create a new Database by defining a database name, keyspace name and select a database region, then click create database.
 
-- Create an API Key for your DB & add it your project, by typing it in the terminal(& replacing the <app_token> with your own token!
+- Create an API Key for your DB & add it your project, by typing it in the terminal (& replacing the <app_token> with your own token!)
 For eg:
 ```
 export ASTRA_DB_ID=045f7e8d-bf53-4eac-933e-94e4258998
@@ -40,3 +40,5 @@ npm start
 
 Visit http://localhost:3000Socials
 To see your links in the API!
+
+- Connect this API to A Front-End to create your own Linktree Alternative which you can customize as much as needed!
