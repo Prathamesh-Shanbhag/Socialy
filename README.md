@@ -38,7 +38,7 @@ npm start
 ```
 ---
 
-Visit http://localhost:3000Socials
+Visit http://localhost:3000/Socials
 To see your links in the API!
 
 - Connect this API to A Front-End to create your own Linktree Alternative which you can customize as much as needed!
